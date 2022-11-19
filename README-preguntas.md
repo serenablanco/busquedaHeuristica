@@ -3,14 +3,17 @@
 #### 1. ¿Qué variable representa la lista ABIERTA?
 La lista abierta está representada por la variable 'openset' de la clase AStar.java (src/com/jwetherell/algorithms/graph/AStar.java).
 
-![openset]()
+![openset](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/openset.png)
 
 #### 2. ¿Qué variable representa la función g?
 La función g está representada por la variable 'gScore' de la clase AStar.java.
 
+![gScore](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/gScore.png)
+
 #### 3. ¿Qué variable representa la función f?
 La función f está representada por la variable 'fScore', también de la clase AStar.java.
 
+![fScore](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/fScore.png)
 
 #### 4. ¿Qué método habría que modificar para que la heurística representara la distancia aérea entre vértices?
 
