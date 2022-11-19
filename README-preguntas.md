@@ -25,4 +25,4 @@ Sí, el método aStar() reevalúa los nudos en caso de que se encuentre una nuev
 Este método cuenta con un bucle while, en el cual se evalúan los nodos de la lista abierta (openset). 
 Se va guardando el mejor camino hasta el momento, pero cuando cambia la función f (fScore), se reordena la lista abierta para reevaluar los nudos.
 
-![método aStar](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/metodo%20aStar.png)
+![método aStar](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/funcion%20h.png)
