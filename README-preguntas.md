@@ -4,6 +4,7 @@
 La lista abierta está representada por la variable 'openset' de la clase AStar.java (src/com/jwetherell/algorithms/graph/AStar.java).
 
 
+
 #### 2. ¿Qué variable representa la función g?
 La función g está representada por la variable 'gScore' de la clase AStar.java.
 
