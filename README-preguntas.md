@@ -16,7 +16,9 @@ La función f está representada por la variable 'fScore', también de la clase 
 ![fScore](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/fScore.png)
 
 #### 4. ¿Qué método habría que modificar para que la heurística representara la distancia aérea entre vértices?
+Tendíamos que modificar el método aStar() de la clase AStar.java, ya que es este método el que evalúa los diferentes nudos y construye el mejor camino.
 
+![método aStar](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/metodo aStar.png)
 
 #### 5. ¿Realiza este método reevaluación de nudos cuando se encuentra una nueva ruta a un determinado vértice? Justifique la respuesta.
 
