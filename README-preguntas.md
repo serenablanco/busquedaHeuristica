@@ -20,6 +20,8 @@ Tendíamos que modificar el método aStar() de la clase AStar.java, ya que es es
 
 ![método aStar](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/metodo%20aStar.png)
 
+En específico, se trata del método heuristicCostEstimate(), el cual se encarga de indicar el coste entre los distintos vértices. De momento devuelve siempre el valor 1.
+
 #### 5. ¿Realiza este método reevaluación de nudos cuando se encuentra una nueva ruta a un determinado vértice? Justifique la respuesta.
 Sí, el método aStar() reevalúa los nudos en caso de que se encuentre una nueva ruta.
 Este método cuenta con un bucle while, en el cual se evalúan los nodos de la lista abierta (openset). 
