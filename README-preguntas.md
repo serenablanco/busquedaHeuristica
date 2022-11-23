@@ -31,7 +31,7 @@ Se va guardando el mejor camino hasta el momento, pero cuando cambia la función
 
 ![método heuristicCostEstimate](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/funcion%20h.png)
 
-En concreto, dentro del método aStar(), se realiza la revaluación de nudos cuando cambia la función f (fScore): 
+En concreto, dentro del método aStar(), se realiza la reevaluación de nudos cuando cambia la función f (fScore): 
 
 ![reevaluación nudos](https://github.com/serenablanco/busquedaHeuristica/blob/master/img/reevaluacioNudos.png)
 
